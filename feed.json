@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "World of Toge",
+    "description": "",
+    "home_page_url": "https://Togetogelife.github.io",
+    "feed_url": "https://Togetogelife.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SYM aka KASUMI"
+    },
+    "items": [
+        {
+            "id": "https://Togetogelife.github.io/test-page.html",
+            "url": "https://Togetogelife.github.io/test-page.html",
+            "title": "Test Page",
+            "summary": "This is a test page for blog",
+            "content_html": "<p>This is a test page for blog</p>",
+            "author": {
+                "name": "SYM aka KASUMI"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-13T17:08:07+09:00",
+            "date_modified": "2026-05-13T17:08:07+09:00"
+        }
+    ]
+}

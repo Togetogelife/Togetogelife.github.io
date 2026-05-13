@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Togetogelife.github.io/sitemap.xml

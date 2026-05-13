@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>World of Toge</title>
+    <link href="https://Togetogelife.github.io/feed.xml" rel="self" />
+    <link href="https://Togetogelife.github.io" />
+    <updated>2026-05-13T17:08:07+09:00</updated>
+    <author>
+        <name>SYM aka KASUMI</name>
+    </author>
+    <id>https://Togetogelife.github.io</id>
+
+    <entry>
+        <title>Test Page</title>
+        <author>
+            <name>SYM aka KASUMI</name>
+        </author>
+        <link href="https://Togetogelife.github.io/test-page.html"/>
+        <id>https://Togetogelife.github.io/test-page.html</id>
+
+        <updated>2026-05-13T17:08:07+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test page for blog
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test page for blog</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
