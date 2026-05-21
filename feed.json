@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "World of Toge",
+    "title": "新川崎(仮",
     "description": "",
     "home_page_url": "https://Togetogelife.github.io",
     "feed_url": "https://Togetogelife.github.io/feed.json",
@@ -10,18 +10,34 @@
     },
     "items": [
         {
-            "id": "https://Togetogelife.github.io/test-page.html",
-            "url": "https://Togetogelife.github.io/test-page.html",
-            "title": "Test Page1",
-            "summary": "This is a test page for blog",
-            "content_html": "<p>This is a test page for blog</p>",
+            "id": "https://Togetogelife.github.io/ge-ciandkao-chaza-tapu-ranojie.html",
+            "url": "https://Togetogelife.github.io/ge-ciandkao-chaza-tapu-ranojie.html",
+            "title": "[歌詞&amp;考察]雑踏、僕らの街",
+            "summary": "歌詞原文 中文翻譯 やり残した鼓動が この夜を覆って 僕らを包んで 粉々になる前に 頼りなくてもいい その手を この手は 自分自身のものさ 変わらないはずはないよ 手を伸ばして 永遠の中で 迷わない為の温もり 軽薄な君に 届くことなく散ってゆく 想像通り？ そんなはずはない 逃げりゃいいでしょ？ 簡単に言わないで&hellip;",
+            "content_html": "<div data-lyrics-container=\"true\">\n<div class=\"align-center\" data-lyrics-container=\"true\">\n<div class=\"post__video\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wYmNq-2bLsI\" title=\"YouTube video player\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\">\n  </iframe></div></div>\n</div>\n</div>\n<div class=\"Lyrics__Container-sc-c1895f55-1 fYBzEj\" data-lyrics-container=\"true\">\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.943%;\">\n<div class=\"Lyrics__Container-sc-c1895f55-1 fYBzEj\" data-lyrics-container=\"true\">歌詞原文</div>\n</td>\n<td style=\"width: 49.943%;\">中文翻譯</td>\n</tr>\n<tr>\n<td style=\"width: 49.943%;\">\n<div class=\"Lyrics__Container-sc-c1895f55-1 fYBzEj\" data-lyrics-container=\"true\">やり残した鼓動が この夜を覆って<br>僕らを包んで 粉々になる前に<br>頼りなくてもいい その手を<br>この手は 自分自身のものさ<br>変わらないはずはないよ 手を伸ばして<br><br>永遠の中で 迷わない為の温もり<br>軽薄な君に 届くことなく散ってゆく<br>想像通り？ そんなはずはない<br>逃げりゃいいでしょ？ 簡単に言わないで<br><br>いつも通りの世界を<br>今日だって駆けてゆくんだ<br>滑り落ちたら 掴んでやろう<br>灰色の空 その中で煌めく青さを<br><br>嘘みたいな 馬鹿みたいな<br>どうしようもない僕らの街<br>それでも この眼で確かに見えたんだ<br>この手で確かに触れたんだ ねえ ほら ほら<br>ほらまた吹いた 馬鹿みたいだ<br>どうしようもない闇を照らせ<br>夢じゃない どうせ終わってる街だって<br>諦めたって変わんないぜ ああ まだ まだ まだ</div>\n<div class=\"RightSidebar__Container-sc-eb801a17-0 cqMKJk\">\n<div class=\"sc-bbe0da3f-0 hvPOS\">\n<div class=\"sc-bbe0da3f-1 PTVNj\">\n<div class=\"sc-ad7766be-0 JephN\">\n<div id=\"div-gpt-ad-desktop_song_lyrics_sidebar2-desktop_song_lyrics_sidebar2-1\"></div>\n<div class=\"sc-ad7766be-1 itMFfu\"> </div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"Lyrics__Container-sc-c1895f55-1 fYBzEj\" data-lyrics-container=\"true\">やり残した鼓動が この夜を覆って<br>僕らを包んで 粉々になる前に<br>頼りなくてもいい その手を<br>この手は 自分自身のものさ<br>変わらないはずはないよ 手を伸ばして<br><br>何もかも君次第で 僕次第さ</div>\n</td>\n<td class=\"align-left\" style=\"width: 49.943%;\">中文翻譯</td>\n</tr>\n</tbody>\n</table>\n</div>",
+            "author": {
+                "name": "SYM aka KASUMI"
+            },
+            "tags": [
+                   "歌詞"
+            ],
+            "date_published": "2026-05-21T21:39:34+09:00",
+            "date_modified": "2026-05-21T21:47:05+09:00"
+        },
+        {
+            "id": "https://Togetogelife.github.io/about-this-blog.html",
+            "url": "https://Togetogelife.github.io/about-this-blog.html",
+            "title": "About this blog",
+            "summary": "這裡沒有什麼特別厲害的內容。 應該吧。 只是記錄著，一個少女樂團， 如何改變了一個平凡上班族的一生。",
+            "content_html": "<p>這裡沒有什麼特別厲害的內容。<br>應該吧。<br>只是記錄著，一個少女樂團，<br>如何改變了一個平凡上班族的一生。<br><br></p>",
+            "image": "https://Togetogelife.github.io/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png",
             "author": {
                 "name": "SYM aka KASUMI"
             },
             "tags": [
             ],
-            "date_published": "2026-05-13T17:08:07+09:00",
-            "date_modified": "2026-05-13T17:38:33+09:00"
+            "date_published": "2026-05-21T21:26:22+09:00",
+            "date_modified": "2026-05-21T21:26:22+09:00"
         }
     ]
 }

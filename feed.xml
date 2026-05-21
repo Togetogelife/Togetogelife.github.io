@@ -1,31 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>World of Toge</title>
+    <title>新川崎(仮</title>
     <link href="https://Togetogelife.github.io/feed.xml" rel="self" />
     <link href="https://Togetogelife.github.io" />
-    <updated>2026-05-13T17:38:33+09:00</updated>
+    <updated>2026-05-21T21:47:05+09:00</updated>
     <author>
         <name>SYM aka KASUMI</name>
     </author>
     <id>https://Togetogelife.github.io</id>
 
     <entry>
-        <title>Test Page1</title>
+        <title>[歌詞&amp;考察]雑踏、僕らの街</title>
         <author>
             <name>SYM aka KASUMI</name>
         </author>
-        <link href="https://Togetogelife.github.io/test-page.html"/>
-        <id>https://Togetogelife.github.io/test-page.html</id>
+        <link href="https://Togetogelife.github.io/ge-ciandkao-chaza-tapu-ranojie.html"/>
+        <id>https://Togetogelife.github.io/ge-ciandkao-chaza-tapu-ranojie.html</id>
+            <category term="歌詞"/>
 
-        <updated>2026-05-13T17:08:07+09:00</updated>
+        <updated>2026-05-21T21:39:34+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    This is a test page for blog
+                    歌詞原文 中文翻譯 やり残した鼓動が この夜を覆って 僕らを包んで 粉々になる前に 頼りなくてもいい その手を この手は 自分自身のものさ 変わらないはずはないよ 手を伸ばして 永遠の中で 迷わない為の温もり 軽薄な君に 届くことなく散ってゆく 想像通り？ そんなはずはない 逃げりゃいいでしょ？ 簡単に言わないで&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a test page for blog</p>
+                <div data-lyrics-container="true">
+<div class="align-center" data-lyrics-container="true">
+<div class="post__video"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/wYmNq-2bLsI" title="YouTube video player" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1">
+  </iframe></div></div>
+</div>
+</div>
+<div class="Lyrics__Container-sc-c1895f55-1 fYBzEj" data-lyrics-container="true">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.943%;">
+<div class="Lyrics__Container-sc-c1895f55-1 fYBzEj" data-lyrics-container="true">歌詞原文</div>
+</td>
+<td style="width: 49.943%;">中文翻譯</td>
+</tr>
+<tr>
+<td style="width: 49.943%;">
+<div class="Lyrics__Container-sc-c1895f55-1 fYBzEj" data-lyrics-container="true">やり残した鼓動が この夜を覆って<br>僕らを包んで 粉々になる前に<br>頼りなくてもいい その手を<br>この手は 自分自身のものさ<br>変わらないはずはないよ 手を伸ばして<br><br>永遠の中で 迷わない為の温もり<br>軽薄な君に 届くことなく散ってゆく<br>想像通り？ そんなはずはない<br>逃げりゃいいでしょ？ 簡単に言わないで<br><br>いつも通りの世界を<br>今日だって駆けてゆくんだ<br>滑り落ちたら 掴んでやろう<br>灰色の空 その中で煌めく青さを<br><br>嘘みたいな 馬鹿みたいな<br>どうしようもない僕らの街<br>それでも この眼で確かに見えたんだ<br>この手で確かに触れたんだ ねえ ほら ほら<br>ほらまた吹いた 馬鹿みたいだ<br>どうしようもない闇を照らせ<br>夢じゃない どうせ終わってる街だって<br>諦めたって変わんないぜ ああ まだ まだ まだ</div>
+<div class="RightSidebar__Container-sc-eb801a17-0 cqMKJk">
+<div class="sc-bbe0da3f-0 hvPOS">
+<div class="sc-bbe0da3f-1 PTVNj">
+<div class="sc-ad7766be-0 JephN">
+<div id="div-gpt-ad-desktop_song_lyrics_sidebar2-desktop_song_lyrics_sidebar2-1"></div>
+<div class="sc-ad7766be-1 itMFfu"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="Lyrics__Container-sc-c1895f55-1 fYBzEj" data-lyrics-container="true">やり残した鼓動が この夜を覆って<br>僕らを包んで 粉々になる前に<br>頼りなくてもいい その手を<br>この手は 自分自身のものさ<br>変わらないはずはないよ 手を伸ばして<br><br>何もかも君次第で 僕次第さ</div>
+</td>
+<td class="align-left" style="width: 49.943%;">中文翻譯</td>
+</tr>
+</tbody>
+</table>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About this blog</title>
+        <author>
+            <name>SYM aka KASUMI</name>
+        </author>
+        <link href="https://Togetogelife.github.io/about-this-blog.html"/>
+        <id>https://Togetogelife.github.io/about-this-blog.html</id>
+        <media:content url="https://Togetogelife.github.io/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png" medium="image" />
+
+        <updated>2026-05-21T21:26:22+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://Togetogelife.github.io/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png" alt="" />
+                    這裡沒有什麼特別厲害的內容。 應該吧。 只是記錄著，一個少女樂團， 如何改變了一個平凡上班族的一生。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Togetogelife.github.io/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png" class="type:primaryImage" alt="" /></p>
+                <p>這裡沒有什麼特別厲害的內容。<br>應該吧。<br>只是記錄著，一個少女樂團，<br>如何改變了一個平凡上班族的一生。<br><br></p>
             ]]>
         </content>
     </entry>
