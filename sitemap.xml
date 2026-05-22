@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://Togetogelife.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://togetoge.cc/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://Togetogelife.github.io/</loc>
+<loc>https://togetoge.cc/</loc>
 </url>
 <url>
-<loc>https://Togetogelife.github.io/about-this-blog.html</loc>
-<lastmod>2026-05-21T21:26:22+09:00</lastmod>
+<loc>https://togetoge.cc/about-this-blog/</loc>
+<lastmod>2026-05-22T09:38:41+09:00</lastmod>
 <image:image>
-<image:loc>https://Togetogelife.github.io/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png</image:loc>
+<image:loc>https://togetoge.cc/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://Togetogelife.github.io/ge-ciandkao-chaza-tapu-ranojie.html</loc>
-<lastmod>2026-05-21T21:47:05+09:00</lastmod>
+<loc>https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie/</loc>
+<lastmod>2026-05-22T11:20:28+09:00</lastmod>
 </url>
 <url>
-<loc>https://Togetogelife.github.io/togenasitogearile-qu-yi-lan.html</loc>
+<loc>https://togetoge.cc/test/</loc>
+<lastmod>2026-05-22T11:35:42+09:00</lastmod>
+</url>
+<url>
+<loc>https://togetoge.cc/test2/</loc>
+<lastmod>2026-05-22T11:57:59+09:00</lastmod>
+</url>
+<url>
+<loc>https://togetoge.cc/togenasitogearile-qu-yi-lan/</loc>
 <lastmod>2026-05-21T21:40:16+09:00</lastmod>
 </url>
 </urlset>
