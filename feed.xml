@@ -3,7 +3,7 @@
     <title>新川崎(仮</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-09-05T10:16:32+09:00</updated>
+    <updated>2026-09-05T10:23:22+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
@@ -181,7 +181,7 @@
         </content>
     </entry>
     <entry>
-        <title>[歌詞&amp;考察] ダレモ</title>
+        <title>[歌詞翻譯] ダレモ</title>
         <author>
             <name>SYM</name>
         </author>
@@ -192,14 +192,20 @@
         <updated>2026-05-31T23:25:23+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    音源連結： ダレモ (誰也) 歌詞原文 中文翻譯 足りないものばかり見たところで 欲しいものは何処にもなかった 焚きつけた過去への炎で 君に理解してほしいだけ 退屈な日々 壊れたくて 掃き出す現実[せかい] 嫌いなんだ 騙し合う気配に疲れて 僕は孤独を選んだだけ 優しさを見透かしたって 何も無いと 疑うよ あとで傷つくより 端[はな]から線を引いては&hellip;
+                    <div data-lyrics-container="true">
+<div class="align-center" data-lyrics-container="true">
+<div class="align-left">
+<p>作詞    カイザー恵理菜<br>作曲    遊部優介</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div data-lyrics-container="true">
 <div class="align-center" data-lyrics-container="true">
-<div class="align-left"><span style="text-align: left; font-size: inherit;">音源連結：</span></div>
+<div class="align-left">
+<p>作詞    カイザー恵理菜<br>作曲    遊部優介</p>
+<span style="text-align: left; font-size: inherit;">音源連結：</span></div>
 <div>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/aUPvnBZzb34?si=4GGqHqHVo0JfqRMG" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h4 class="align-center"><strong>ダレモ (誰也)</strong></h4>
