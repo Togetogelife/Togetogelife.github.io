@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-09-29T21:36:32+09:00</updated>
+    <updated>2026-10-10T01:19:57+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>2026刺刺東南亞巡迴演唱會紀行③─新加坡篇</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/"/>
+        <id>https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/</id>
+            <category term="旅遊紀行"/>
+
+        <updated>2026-10-04T14:29:27+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為最終站─新加坡（大多都在吃美食）篇。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>[歌詞考察]  空の箱（空欄）</title>
         <author>
@@ -171,26 +189,6 @@
                     <div data-lyrics-container="true">
 <div class="align-center" data-lyrics-container="true">
 <div class="align-left">英文曲名：Mirage of the mind<br>作詞    Fushi<br>作曲    Fushi</div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>[歌詞翻譯]  薄采ディスプレイ</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-3/"/>
-        <id>https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-3/</id>
-            <category term="歌詞"/>
-
-        <updated>2026-05-31T23:25:23+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <div data-lyrics-container="true">
-<div class="align-center" data-lyrics-container="true">
-<div class="align-left">英文曲名：Fragile Violet<br>作詞    Misty mint<br>作曲    Misty mint</div>
 <div>
                 ]]>
             </summary>
