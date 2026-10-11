@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/zhong-munu-shen-zhi-lei/",
+            "url": "https://togetoge.cc/zhong-munu-shen-zhi-lei/",
+            "title": "終幕：女神的淚水",
+            "summary": "<p data-pm-slice=\"1 1 []\">8月20日，新加坡之旅最終日</p>\n<p data-pm-slice=\"1 1 []\">從昨天晚上演唱會結束開始，我就不停地在思考，最後一首《<a href=\"https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-2/\" target=\"_blank\" rel=\"noopener noreferrer\">命をくれよ</a>》唱完之後，理名流下的眼淚，究竟包含了多少不為人知的重量。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章",
+                   "旅遊紀行"
+            ],
+            "date_published": "2026-10-11T23:43:41+09:00",
+            "date_modified": "2026-10-11T23:48:13+09:00"
+        },
+        {
             "id": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/",
             "url": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/",
             "title": "2026刺刺東南亞巡迴演唱會紀行③─新加坡篇",
@@ -21,7 +36,7 @@
                    "旅遊紀行"
             ],
             "date_published": "2026-10-04T14:29:27+09:00",
-            "date_modified": "2026-10-10T01:19:57+09:00"
+            "date_modified": "2026-10-11T23:44:25+09:00"
         },
         {
             "id": "https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/",
@@ -137,20 +152,6 @@
             ],
             "date_published": "2026-09-09T20:00:58+09:00",
             "date_modified": "2026-09-14T13:02:45+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-13-3/",
-            "url": "https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-13-3/",
-            "title": "[歌詞翻譯]  蜃気楼ニ問フ",
-            "summary": "<div data-lyrics-container=\"true\">\n<div class=\"align-center\" data-lyrics-container=\"true\">\n<div class=\"align-left\">英文曲名：Mirage of the mind<br>作詞    Fushi<br>作曲    Fushi</div>\n<div>",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "歌詞"
-            ],
-            "date_published": "2026-05-31T23:25:24+09:00",
-            "date_modified": "2026-09-14T13:19:04+09:00"
         }
     ]
 }

@@ -3,12 +3,32 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-10T01:19:57+09:00</updated>
+    <updated>2026-10-11T23:48:13+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>終幕：女神的淚水</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/zhong-munu-shen-zhi-lei/"/>
+        <id>https://togetoge.cc/zhong-munu-shen-zhi-lei/</id>
+            <category term="隨筆文章"/>
+            <category term="旅遊紀行"/>
+
+        <updated>2026-10-11T23:43:41+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">8月20日，新加坡之旅最終日</p>
+<p data-pm-slice="1 1 []">從昨天晚上演唱會結束開始，我就不停地在思考，最後一首《<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-2/" target="_blank" rel="noopener noreferrer">命をくれよ</a>》唱完之後，理名流下的眼淚，究竟包含了多少不為人知的重量。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>2026刺刺東南亞巡迴演唱會紀行③─新加坡篇</title>
         <author>
@@ -170,26 +190,6 @@
                 <![CDATA[
                     <p>大家都有好好長成自己心中理想的大人嗎？<br><br>有關〈<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-5/" target="_blank" rel="noopener noreferrer">理想的パラドクスとは(所謂理想的悖論)</a><a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-5/" target="_blank" rel="noopener noreferrer">〉</a>這首歌，筆者想要分享一個曾經聽聞的，微不足道的小故事。建議可以搭配樂曲以及歌詞一同閱讀。</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>[歌詞翻譯]  蜃気楼ニ問フ</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-13-3/"/>
-        <id>https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-13-3/</id>
-            <category term="歌詞"/>
-
-        <updated>2026-05-31T23:25:24+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <div data-lyrics-container="true">
-<div class="align-center" data-lyrics-container="true">
-<div class="align-left">英文曲名：Mirage of the mind<br>作詞    Fushi<br>作曲    Fushi</div>
-<div>
                 ]]>
             </summary>
         <content></content>
