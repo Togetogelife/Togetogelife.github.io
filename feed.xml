@@ -3,12 +3,31 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-12T09:48:47+09:00</updated>
+    <updated>2026-10-14T20:18:52+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>王醫師會幫你向上帝祈禱</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/"/>
+        <id>https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/</id>
+            <category term="隨筆文章"/>
+            <category term="醫療知識"/>
+
+        <updated>2026-10-14T20:14:22+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">以下內文節錄自筆者的授課內容。<br>有動物醫學知識、衛教等授課需求，請由網站頁面左下方「聯絡作者」處與筆者聯絡。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>終幕：女神的淚水</title>
         <author>
@@ -170,25 +189,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>我想大多數人第一次聽到刺刺的歌，應該都是從<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie/" target="_blank" rel="noopener noreferrer">〈雑踏、僕らの街（熙熙攘攘，我們的城市）〉</a>這首開始的吧。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>[樂曲心得]  理想的パラドクスとは（所謂理想的悖論）</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/le-qu-xin-de-suo-wei-li-xiang-de-bei-lun/"/>
-        <id>https://togetoge.cc/le-qu-xin-de-suo-wei-li-xiang-de-bei-lun/</id>
-            <category term="隨筆文章"/>
-            <category term="樂曲心得與考察"/>
-
-        <updated>2026-09-09T20:00:58+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>大家都有好好長成自己心中理想的大人嗎？<br><br>有關〈<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-5/" target="_blank" rel="noopener noreferrer">理想的パラドクスとは(所謂理想的悖論)</a><a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-5/" target="_blank" rel="noopener noreferrer">〉</a>這首歌，筆者想要分享一個曾經聽聞的，微不足道的小故事。建議可以搭配樂曲以及歌詞一同閱讀。</p>
 
                 ]]>
             </summary>
