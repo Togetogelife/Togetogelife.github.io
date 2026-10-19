@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-14T20:20:56+09:00</updated>
+    <updated>2026-10-19T09:21:52+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>短文恐懼症</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/duan-wen-kong-ju-zheng/"/>
+        <id>https://togetoge.cc/duan-wen-kong-ju-zheng/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-10-19T09:13:11+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>最近發現自己很不會寫短文。<br>偶爾腦中閃過的idea架構完之後都會變成至少兩千字以上的長文。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>王醫師會幫你向上帝祈禱</title>
         <author>
@@ -171,24 +189,6 @@
             <summary type="html">
                 <![CDATA[
                     <p class="align-left"><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第一站─泰國篇。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>[歌詞考察]  雑踏、僕らの街（熙熙攘攘，我們的城市）</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/ge-ci-kao-cha-xi-xi-rang-rangwo-men-de-cheng-shi/"/>
-        <id>https://togetoge.cc/ge-ci-kao-cha-xi-xi-rang-rangwo-men-de-cheng-shi/</id>
-            <category term="樂曲心得與考察"/>
-
-        <updated>2026-09-09T20:35:40+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>我想大多數人第一次聽到刺刺的歌，應該都是從<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie/" target="_blank" rel="noopener noreferrer">〈雑踏、僕らの街（熙熙攘攘，我們的城市）〉</a>這首開始的吧。</p>
 
                 ]]>
             </summary>
