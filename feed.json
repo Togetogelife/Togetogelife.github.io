@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/geng-hao-de-renyi/",
+            "url": "https://togetoge.cc/geng-hao-de-renyi/",
+            "title": "更好的人（一）",
+            "summary": "<p>挑戰每周連載。<br>《更好的人》系列文預計每周三更新。本系列旨在探討筆者在追求「成為更好的人」這條路上的一些經歷與體會。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-10-21T19:30:15+09:00",
+            "date_modified": "2026-10-21T19:52:20+09:00"
+        },
+        {
             "id": "https://togetoge.cc/duan-wen-kong-ju-zheng/",
             "url": "https://togetoge.cc/duan-wen-kong-ju-zheng/",
             "title": "短文恐懼症",
@@ -138,20 +152,6 @@
             ],
             "date_published": "2026-09-14T20:23:03+09:00",
             "date_modified": "2026-09-14T21:21:54+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-tai-guo-pian/",
-            "url": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-tai-guo-pian/",
-            "title": "2026刺刺東南亞巡迴演唱會紀行①─泰國篇",
-            "summary": "<p class=\"align-left\"><a href=\"https://togetoge.cc/he-wei-wu-ci-you-ci/\" target=\"_blank\" rel=\"noopener noreferrer\">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第一站─泰國篇。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "旅遊紀行"
-            ],
-            "date_published": "2026-09-10T17:49:56+09:00",
-            "date_modified": "2026-09-24T20:50:57+09:00"
         }
     ]
 }

@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-19T09:21:52+09:00</updated>
+    <updated>2026-10-21T19:52:20+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（一）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-renyi/"/>
+        <id>https://togetoge.cc/geng-hao-de-renyi/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-10-21T19:30:15+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>挑戰每周連載。<br>《更好的人》系列文預計每周三更新。本系列旨在探討筆者在追求「成為更好的人」這條路上的一些經歷與體會。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>短文恐懼症</title>
         <author>
@@ -171,24 +189,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>如輕小說一般的標題。<br>要說筆者今年幹過最瘋狂的事情，大概就是跑去買了一輛MX-5，然後拿來痛刺刺了吧。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>2026刺刺東南亞巡迴演唱會紀行①─泰國篇</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-tai-guo-pian/"/>
-        <id>https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-tai-guo-pian/</id>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-09-10T17:49:56+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p class="align-left"><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第一站─泰國篇。</p>
 
                 ]]>
             </summary>
