@@ -3,12 +3,31 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-21T19:52:20+09:00</updated>
+    <updated>2026-10-25T15:25:17+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>砲友比舅舅親</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/pao-you-bi-jiu-jiu-qin/"/>
+        <id>https://togetoge.cc/pao-you-bi-jiu-jiu-qin/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-10-25T15:15:19+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p data-pm-slice="1 1 []">（本文內文中的「親戚」原則上是指長輩）</p>
+<p>筆者相信許多人都有一個共同的經驗：逢年過節回老家時，總是會遭受到各種親戚不可名狀的精神轟炸。<br>美其名為「關心」，但更多時候，只會讓人感受到前所未有的疲勞與壓力。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（一）</title>
         <author>
@@ -171,24 +190,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>追隨偶像、崇拜偶像，究竟本質上是一種怎麼樣的行為呢？</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>關於我實在太愛刺刺所以買了一輛車來痛這檔事</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/guan-yu-wo-shi-zai-tai-ai-ci-ci-suo-yi-mai-liao-yi-liang-che-lai-tong-zhe-dang-shi/"/>
-        <id>https://togetoge.cc/guan-yu-wo-shi-zai-tai-ai-ci-ci-suo-yi-mai-liao-yi-liang-che-lai-tong-zhe-dang-shi/</id>
-            <category term="隨筆文章"/>
-
-        <updated>2026-09-14T20:23:03+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>如輕小說一般的標題。<br>要說筆者今年幹過最瘋狂的事情，大概就是跑去買了一輛MX-5，然後拿來痛刺刺了吧。</p>
 
                 ]]>
             </summary>
