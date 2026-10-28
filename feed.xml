@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-25T15:29:10+09:00</updated>
+    <updated>2026-10-28T21:52:57+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（二）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-rener/"/>
+        <id>https://togetoge.cc/geng-hao-de-rener/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-10-28T16:52:48+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>筆者受到一個老套的觀念「Identity-based habits （以身分認同為基礎的行為改變／習慣建立）」的啟發，將它依照自己的理解拆成兩個部分實踐之後，在體重控制上得到了相當可觀的成效。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>砲友比舅舅親</title>
         <author>
@@ -171,25 +189,6 @@
             <summary type="html">
                 <![CDATA[
                     <p><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第二站─印尼篇。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>幕間①：女神的一瞥</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/mu-jian-nu-shen-de-yi-pie/"/>
-        <id>https://togetoge.cc/mu-jian-nu-shen-de-yi-pie/</id>
-            <category term="隨筆文章"/>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-09-16T23:08:39+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>追隨偶像、崇拜偶像，究竟本質上是一種怎麼樣的行為呢？</p>
 
                 ]]>
             </summary>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/geng-hao-de-rener/",
+            "url": "https://togetoge.cc/geng-hao-de-rener/",
+            "title": "更好的人（二）",
+            "summary": "<p>筆者受到一個老套的觀念「Identity-based habits （以身分認同為基礎的行為改變／習慣建立）」的啟發，將它依照自己的理解拆成兩個部分實踐之後，在體重控制上得到了相當可觀的成效。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-10-28T16:52:48+09:00",
+            "date_modified": "2026-10-28T21:52:57+09:00"
+        },
+        {
             "id": "https://togetoge.cc/pao-you-bi-jiu-jiu-qin/",
             "url": "https://togetoge.cc/pao-you-bi-jiu-jiu-qin/",
             "title": "砲友比舅舅親",
@@ -137,21 +151,6 @@
             ],
             "date_published": "2026-09-22T09:18:12+09:00",
             "date_modified": "2026-09-25T09:47:20+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/mu-jian-nu-shen-de-yi-pie/",
-            "url": "https://togetoge.cc/mu-jian-nu-shen-de-yi-pie/",
-            "title": "幕間①：女神的一瞥",
-            "summary": "<p>追隨偶像、崇拜偶像，究竟本質上是一種怎麼樣的行為呢？</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "隨筆文章",
-                   "旅遊紀行"
-            ],
-            "date_published": "2026-09-16T23:08:39+09:00",
-            "date_modified": "2026-09-24T23:32:03+09:00"
         }
     ]
 }
