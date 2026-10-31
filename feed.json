@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/wei-jiaoyi/",
+            "url": "https://togetoge.cc/wei-jiaoyi/",
+            "title": "衛教（一）",
+            "summary": "<p>做了七八年的飼主衛教，每年也都會被公會邀請，針對飼主開設一些課程。講義改了無數次版，也講過各式各樣的內容，不過如果問筆者這麼多年下來對「衛教」印象最深刻的是什麼，腦中最先浮現的反而是以前在診間遇過的兩個中年大叔。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章",
+                   "醫療知識"
+            ],
+            "date_published": "2026-10-31T23:43:34+09:00",
+            "date_modified": "2026-10-31T23:52:44+09:00"
+        },
+        {
             "id": "https://togetoge.cc/geng-hao-de-rener/",
             "url": "https://togetoge.cc/geng-hao-de-rener/",
             "title": "更好的人（二）",
@@ -21,7 +36,7 @@
                    "隨筆文章"
             ],
             "date_published": "2026-10-28T16:52:48+09:00",
-            "date_modified": "2026-10-28T21:52:57+09:00"
+            "date_modified": "2026-10-29T21:29:26+09:00"
         },
         {
             "id": "https://togetoge.cc/pao-you-bi-jiu-jiu-qin/",
@@ -137,20 +152,6 @@
             ],
             "date_published": "2026-09-26T23:09:35+09:00",
             "date_modified": "2026-09-29T19:43:47+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-yin-ni-pian/",
-            "url": "https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-yin-ni-pian/",
-            "title": "2026刺刺東南亞巡迴演唱會紀行②─印尼篇",
-            "summary": "<p><a href=\"https://togetoge.cc/he-wei-wu-ci-you-ci/\" target=\"_blank\" rel=\"noopener noreferrer\">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第二站─印尼篇。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "旅遊紀行"
-            ],
-            "date_published": "2026-09-22T09:18:12+09:00",
-            "date_modified": "2026-09-25T09:47:20+09:00"
         }
     ]
 }

@@ -3,12 +3,31 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-28T21:52:57+09:00</updated>
+    <updated>2026-10-31T23:52:44+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>衛教（一）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/wei-jiaoyi/"/>
+        <id>https://togetoge.cc/wei-jiaoyi/</id>
+            <category term="隨筆文章"/>
+            <category term="醫療知識"/>
+
+        <updated>2026-10-31T23:43:34+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>做了七八年的飼主衛教，每年也都會被公會邀請，針對飼主開設一些課程。講義改了無數次版，也講過各式各樣的內容，不過如果問筆者這麼多年下來對「衛教」印象最深刻的是什麼，腦中最先浮現的反而是以前在診間遇過的兩個中年大叔。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（二）</title>
         <author>
@@ -171,24 +190,6 @@
             <summary type="html">
                 <![CDATA[
                     <p data-pm-slice="1 1 []">時刻是2026年8月16日中午12:17左右，此時我人在AFA的副舞台前，剛聽完刺刺成員的訪談會。做為少數能夠站在第一排守望女神的機會，我自然是非常專心致志地聽取女神的一字一句，觀察著女神的一舉一動。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>2026刺刺東南亞巡迴演唱會紀行②─印尼篇</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-yin-ni-pian/"/>
-        <id>https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-yin-ni-pian/</id>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-09-22T09:18:12+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為其中第二站─印尼篇。</p>
 
                 ]]>
             </summary>
