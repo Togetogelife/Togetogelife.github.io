@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/xin-zeng-ri-wen-ye-mian/",
+            "url": "https://togetoge.cc/xin-zeng-ri-wen-ye-mian/",
+            "title": "Blog新增日文版",
+            "summary": "Blog更新實裝日文版，在左邊side bar以及各篇文章可以切換語言。 先用助手翻譯後大致校對了一輪，後續若有Bug或是翻譯錯誤部分再慢慢修。 沒有助手不知道日子該怎麼過了。感謝科技的力量。 接下來挑戰試著實裝留言板機能看看！",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "公告?"
+            ],
+            "date_published": "2026-11-02T22:03:55+09:00",
+            "date_modified": "2026-11-02T22:13:45+09:00"
+        },
+        {
             "id": "https://togetoge.cc/wei-jiaoyi/",
             "url": "https://togetoge.cc/wei-jiaoyi/",
             "title": "衛教（一）",
@@ -122,7 +136,7 @@
                    "旅遊紀行"
             ],
             "date_published": "2026-10-04T14:29:27+09:00",
-            "date_modified": "2026-10-11T23:44:25+09:00"
+            "date_modified": "2026-11-01T23:53:03+09:00"
         },
         {
             "id": "https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/",
@@ -137,21 +151,6 @@
             ],
             "date_published": "2026-09-29T17:37:54+09:00",
             "date_modified": "2026-09-29T21:36:32+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/mu-jian-nu-shen-de-xiong-bu/",
-            "url": "https://togetoge.cc/mu-jian-nu-shen-de-xiong-bu/",
-            "title": "幕間②：女神的胸部",
-            "summary": "<p data-pm-slice=\"1 1 []\">時刻是2026年8月16日中午12:17左右，此時我人在AFA的副舞台前，剛聽完刺刺成員的訪談會。做為少數能夠站在第一排守望女神的機會，我自然是非常專心致志地聽取女神的一字一句，觀察著女神的一舉一動。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "隨筆文章",
-                   "旅遊紀行"
-            ],
-            "date_published": "2026-09-26T23:09:35+09:00",
-            "date_modified": "2026-09-29T19:43:47+09:00"
         }
     ]
 }

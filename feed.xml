@@ -3,12 +3,29 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-10-31T23:52:44+09:00</updated>
+    <updated>2026-11-02T22:13:45+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>Blog新增日文版</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/xin-zeng-ri-wen-ye-mian/"/>
+        <id>https://togetoge.cc/xin-zeng-ri-wen-ye-mian/</id>
+            <category term="公告?"/>
+
+        <updated>2026-11-02T22:03:55+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Blog更新實裝日文版，在左邊side bar以及各篇文章可以切換語言。 先用助手翻譯後大致校對了一輪，後續若有Bug或是翻譯錯誤部分再慢慢修。 沒有助手不知道日子該怎麼過了。感謝科技的力量。 接下來挑戰試著實裝留言板機能看看！
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>衛教（一）</title>
         <author>
@@ -171,25 +188,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>貫穿本作前半最重要的一首歌。<br>不過，如果完全不做任何考察，可能會很難理解歌詞究竟在說什麼，也會很難理解為什麼劇中的仁菜，會把這首歌視為「僅次於生命，人生第二重要的東西」。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>幕間②：女神的胸部</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/mu-jian-nu-shen-de-xiong-bu/"/>
-        <id>https://togetoge.cc/mu-jian-nu-shen-de-xiong-bu/</id>
-            <category term="隨筆文章"/>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-09-26T23:09:35+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p data-pm-slice="1 1 []">時刻是2026年8月16日中午12:17左右，此時我人在AFA的副舞台前，剛聽完刺刺成員的訪談會。做為少數能夠站在第一排守望女神的機會，我自然是非常專心致志地聽取女神的一字一句，觀察著女神的一舉一動。</p>
 
                 ]]>
             </summary>
