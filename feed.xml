@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-02T22:13:45+09:00</updated>
+    <updated>2026-11-04T23:17:00+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（三）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-rensan/"/>
+        <id>https://togetoge.cc/geng-hao-de-rensan/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-04T15:20:14+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>昨天（11/3）是<a href="https://togetoge.cc/he-wei-wu-ci-you-ci/">川崎第一女團無刺有刺</a>Live〈<a href="https://girls-band-cry.com/live/post-21.html" target="_blank" rel="noopener noreferrer">赤色の響祭</a>〉的公演日。<br><br>由於一整天都沉浸在餘韻之中，原本想說乾脆來個「作者外出取材，本週休刊一次」，不過既然都說好每週三更新了，至少也先遵守約定一個月再偷懶吧。（喂</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Blog新增日文版</title>
         <author>
@@ -170,24 +188,6 @@
             <summary type="html">
                 <![CDATA[
                     <p><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為最終站─新加坡（大多都在吃美食）篇。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>[歌詞考察]  空の箱（空欄）</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/"/>
-        <id>https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/</id>
-            <category term="樂曲心得與考察"/>
-
-        <updated>2026-09-29T17:37:54+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>貫穿本作前半最重要的一首歌。<br>不過，如果完全不做任何考察，可能會很難理解歌詞究竟在說什麼，也會很難理解為什麼劇中的仁菜，會把這首歌視為「僅次於生命，人生第二重要的東西」。</p>
 
                 ]]>
             </summary>

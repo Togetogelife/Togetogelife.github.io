@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/geng-hao-de-rensan/",
+            "url": "https://togetoge.cc/geng-hao-de-rensan/",
+            "title": "更好的人（三）",
+            "summary": "<p>昨天（11/3）是<a href=\"https://togetoge.cc/he-wei-wu-ci-you-ci/\">川崎第一女團無刺有刺</a>Live〈<a href=\"https://girls-band-cry.com/live/post-21.html\" target=\"_blank\" rel=\"noopener noreferrer\">赤色の響祭</a>〉的公演日。<br><br>由於一整天都沉浸在餘韻之中，原本想說乾脆來個「作者外出取材，本週休刊一次」，不過既然都說好每週三更新了，至少也先遵守約定一個月再偷懶吧。（喂</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-11-04T15:20:14+09:00",
+            "date_modified": "2026-11-04T23:17:00+09:00"
+        },
+        {
             "id": "https://togetoge.cc/xin-zeng-ri-wen-ye-mian/",
             "url": "https://togetoge.cc/xin-zeng-ri-wen-ye-mian/",
             "title": "Blog新增日文版",
@@ -137,20 +151,6 @@
             ],
             "date_published": "2026-10-04T14:29:27+09:00",
             "date_modified": "2026-11-01T23:53:03+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/",
-            "url": "https://togetoge.cc/ge-ci-kao-cha-kong-noxiangkong-lan/",
-            "title": "[歌詞考察]  空の箱（空欄）",
-            "summary": "<p>貫穿本作前半最重要的一首歌。<br>不過，如果完全不做任何考察，可能會很難理解歌詞究竟在說什麼，也會很難理解為什麼劇中的仁菜，會把這首歌視為「僅次於生命，人生第二重要的東西」。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "樂曲心得與考察"
-            ],
-            "date_published": "2026-09-29T17:37:54+09:00",
-            "date_modified": "2026-09-29T21:36:32+09:00"
         }
     ]
 }
