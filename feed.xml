@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-04T23:34:40+09:00</updated>
+    <updated>2026-11-08T17:40:27+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>SYM aka かすみ</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/sym-aka-kasumi/"/>
+        <id>https://togetoge.cc/sym-aka-kasumi/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-08T17:31:51+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>有關中文圈使用的暱稱「SYM」以及日文圈使用的暱稱「かすみ」的由來。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（三）</title>
         <author>
@@ -170,24 +188,6 @@
                 <![CDATA[
                     <p data-pm-slice="1 1 []">8月20日，新加坡之旅最終日</p>
 <p data-pm-slice="1 1 []">從昨天晚上演唱會結束開始，我就不停地在思考，最後一首《<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-2/" target="_blank" rel="noopener noreferrer">命をくれよ</a>》唱完之後，理名流下的眼淚，究竟包含了多少不為人知的重量。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>2026刺刺東南亞巡迴演唱會紀行③─新加坡篇</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/"/>
-        <id>https://togetoge.cc/2026ci-ci-dong-nan-ya-xun-hui-yan-chang-hui-ji-xing-xin-jia-po-pian/</id>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-10-04T14:29:27+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://togetoge.cc/he-wei-wu-ci-you-ci/" target="_blank" rel="noopener noreferrer">川崎第一女團無刺有刺</a>於2026年8/14、8/16、8/19三天，分別於泰國曼谷、印尼雅加達以及新加坡展開巡迴演出。筆者毅然決然取得了三場的VIP票，決定與愛團一同巡迴。本篇為最終站─新加坡（大多都在吃美食）篇。</p>
 
                 ]]>
             </summary>
