@@ -3,12 +3,31 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-08T17:54:14+09:00</updated>
+    <updated>2026-11-11T23:06:59+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（四）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-rensi/"/>
+        <id>https://togetoge.cc/geng-hao-de-rensi/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-11T23:04:19+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>前幾天的一個小故事。</p>
+<p>那天跟太太臨時起意，想去家附近的壽司店吃個晚餐。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>SYM aka かすみ</title>
         <author>
@@ -168,26 +187,6 @@
             <summary type="html">
                 <![CDATA[
                     <p data-pm-slice="1 1 []">以下內文節錄自筆者的授課內容。<br>有動物醫學知識、衛教等授課需求，請由網站頁面左下方「聯絡作者」處與筆者聯絡。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>終幕：女神的淚水</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/zhong-munu-shen-zhi-lei/"/>
-        <id>https://togetoge.cc/zhong-munu-shen-zhi-lei/</id>
-            <category term="隨筆文章"/>
-            <category term="旅遊紀行"/>
-
-        <updated>2026-10-11T23:43:41+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p data-pm-slice="1 1 []">8月20日，新加坡之旅最終日</p>
-<p data-pm-slice="1 1 []">從昨天晚上演唱會結束開始，我就不停地在思考，最後一首《<a href="https://togetoge.cc/ge-ciandkao-chaza-tapu-ranojie-14-2/" target="_blank" rel="noopener noreferrer">命をくれよ</a>》唱完之後，理名流下的眼淚，究竟包含了多少不為人知的重量。</p>
 
                 ]]>
             </summary>
