@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-11T23:15:02+09:00</updated>
+    <updated>2026-11-22T23:29:37+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（五）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-renwu/"/>
+        <id>https://togetoge.cc/geng-hao-de-renwu/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-22T23:15:36+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>由於上週和高中時期就認識的友人們一起到首爾玩了一趟，因此這次的更新稍微延後了幾天。<br><br>其實出發前還特地帶了筆電，想說就算人在韓國，應該也能利用晚上回到旅館的時間寫寫文章維持一週一更，結果不僅每天跑行程跑到忘我根本沒有時間打開筆電，更是在回國後才想起那台筆電根本沒有安裝與同步 Publii，就算真的寫完文章也無法發布。搞笑。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（四）</title>
         <author>
@@ -168,25 +186,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>最近發現自己很不會寫短文。<br>偶爾腦中閃過的idea架構完之後都會變成至少兩千字以上的長文。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>王醫師會幫你向上帝祈禱</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/"/>
-        <id>https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/</id>
-            <category term="隨筆文章"/>
-            <category term="醫療知識"/>
-
-        <updated>2026-10-14T20:14:22+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p data-pm-slice="1 1 []">以下內文節錄自筆者的授課內容。<br>有動物醫學知識、衛教等授課需求，請由網站頁面左下方「聯絡作者」處與筆者聯絡。</p>
 
                 ]]>
             </summary>

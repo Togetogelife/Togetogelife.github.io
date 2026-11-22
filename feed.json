@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/geng-hao-de-renwu/",
+            "url": "https://togetoge.cc/geng-hao-de-renwu/",
+            "title": "更好的人（五）",
+            "summary": "<p>由於上週和高中時期就認識的友人們一起到首爾玩了一趟，因此這次的更新稍微延後了幾天。<br><br>其實出發前還特地帶了筆電，想說就算人在韓國，應該也能利用晚上回到旅館的時間寫寫文章維持一週一更，結果不僅每天跑行程跑到忘我根本沒有時間打開筆電，更是在回國後才想起那台筆電根本沒有安裝與同步 Publii，就算真的寫完文章也無法發布。搞笑。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-11-22T23:15:36+09:00",
+            "date_modified": "2026-11-22T23:29:37+09:00"
+        },
+        {
             "id": "https://togetoge.cc/geng-hao-de-rensi/",
             "url": "https://togetoge.cc/geng-hao-de-rensi/",
             "title": "更好的人（四）",
@@ -135,21 +149,6 @@
             ],
             "date_published": "2026-10-19T09:13:11+09:00",
             "date_modified": "2026-10-19T09:21:52+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/",
-            "url": "https://togetoge.cc/wang-yi-shi-hui-bang-ni-xiang-shang-di-qi-dao/",
-            "title": "王醫師會幫你向上帝祈禱",
-            "summary": "<p data-pm-slice=\"1 1 []\">以下內文節錄自筆者的授課內容。<br>有動物醫學知識、衛教等授課需求，請由網站頁面左下方「聯絡作者」處與筆者聯絡。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "隨筆文章",
-                   "醫療知識"
-            ],
-            "date_published": "2026-10-14T20:14:22+09:00",
-            "date_modified": "2026-10-14T20:20:56+09:00"
         }
     ]
 }
