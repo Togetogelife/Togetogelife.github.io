@@ -3,12 +3,30 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-22T23:44:53+09:00</updated>
+    <updated>2026-11-25T23:19:42+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>更好的人（六）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/geng-hao-de-renliu/"/>
+        <id>https://togetoge.cc/geng-hao-de-renliu/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-25T23:17:24+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>今天硬是讓自己半休了個假，開著痛車跑到一百公里外登山。<br><br>雖然平常有在運動跟重訓，但事後才發現這趟登山相當於爬上1.5棟台北101再走下來，因此現在雙腿絕讚緊繃中。</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（五）</title>
         <author>
@@ -168,24 +186,6 @@
             <summary type="html">
                 <![CDATA[
                     <p>挑戰每周連載。<br>《更好的人》系列文預計每周三更新。本系列旨在探討筆者在追求「成為更好的人」這條路上的一些經歷與體會。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>短文恐懼症</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/duan-wen-kong-ju-zheng/"/>
-        <id>https://togetoge.cc/duan-wen-kong-ju-zheng/</id>
-            <category term="隨筆文章"/>
-
-        <updated>2026-10-19T09:13:11+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>最近發現自己很不會寫短文。<br>偶爾腦中閃過的idea架構完之後都會變成至少兩千字以上的長文。</p>
 
                 ]]>
             </summary>

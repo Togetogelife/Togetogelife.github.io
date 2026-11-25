@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/geng-hao-de-renliu/",
+            "url": "https://togetoge.cc/geng-hao-de-renliu/",
+            "title": "更好的人（六）",
+            "summary": "<p>今天硬是讓自己半休了個假，開著痛車跑到一百公里外登山。<br><br>雖然平常有在運動跟重訓，但事後才發現這趟登山相當於爬上1.5棟台北101再走下來，因此現在雙腿絕讚緊繃中。</p>\n",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-11-25T23:17:24+09:00",
+            "date_modified": "2026-11-25T23:19:42+09:00"
+        },
+        {
             "id": "https://togetoge.cc/geng-hao-de-renwu/",
             "url": "https://togetoge.cc/geng-hao-de-renwu/",
             "title": "更好的人（五）",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2026-10-21T19:30:15+09:00",
             "date_modified": "2026-10-21T19:52:20+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/duan-wen-kong-ju-zheng/",
-            "url": "https://togetoge.cc/duan-wen-kong-ju-zheng/",
-            "title": "短文恐懼症",
-            "summary": "<p>最近發現自己很不會寫短文。<br>偶爾腦中閃過的idea架構完之後都會變成至少兩千字以上的長文。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "隨筆文章"
-            ],
-            "date_published": "2026-10-19T09:13:11+09:00",
-            "date_modified": "2026-10-19T09:21:52+09:00"
         }
     ]
 }
