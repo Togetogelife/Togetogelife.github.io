@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://togetoge.cc/biao-ti-wei-ding/",
+            "url": "https://togetoge.cc/biao-ti-wei-ding/",
+            "title": "面具（一）",
+            "summary": "<p>筆者在中學時代是一個滿口髒話、開口閉口都是黃色笑話的小屁孩，在很多人眼中大概是個問題兒童，也被不少人敬而遠之（我想應該只有遠之，沒有敬的部分）。</p>\n<p>進入高中之後雖然有稍微收斂一些，但念的是男校，又在那個時期入了動漫坑，因此身邊的友人基本上也都是同個圈子裡的宅宅。雖然有幾個相處得相當愉快的朋友，但與班上其他同學的連結，應該算是比較薄弱的那一邊。</p>\n<p>總之絕對不是什麼溫良恭儉讓、在團體中廣受歡迎的角色就是了。這一點筆者倒是一直都蠻有自知之明的。</p>\n<div>",
+            "author": {
+                "name": "SYM"
+            },
+            "tags": [
+                   "隨筆文章"
+            ],
+            "date_published": "2026-11-28T22:14:57+09:00",
+            "date_modified": "2026-11-29T00:35:49+09:00"
+        },
+        {
             "id": "https://togetoge.cc/geng-hao-de-renliu/",
             "url": "https://togetoge.cc/geng-hao-de-renliu/",
             "title": "更好的人（六）",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2026-10-25T15:15:19+09:00",
             "date_modified": "2026-10-25T15:29:10+09:00"
-        },
-        {
-            "id": "https://togetoge.cc/geng-hao-de-renyi/",
-            "url": "https://togetoge.cc/geng-hao-de-renyi/",
-            "title": "更好的人（一）",
-            "summary": "<p>挑戰每周連載。<br>《更好的人》系列文預計每周三更新。本系列旨在探討筆者在追求「成為更好的人」這條路上的一些經歷與體會。</p>\n",
-            "author": {
-                "name": "SYM"
-            },
-            "tags": [
-                   "隨筆文章"
-            ],
-            "date_published": "2026-10-21T19:30:15+09:00",
-            "date_modified": "2026-10-21T19:52:20+09:00"
         }
     ]
 }

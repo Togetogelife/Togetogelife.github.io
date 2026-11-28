@@ -3,12 +3,32 @@
     <title>點擊此處返回首頁</title>
     <link href="https://togetoge.cc/feed.xml" rel="self" />
     <link href="https://togetoge.cc" />
-    <updated>2026-11-26T10:44:29+09:00</updated>
+    <updated>2026-11-29T00:35:49+09:00</updated>
     <author>
         <name>SYM</name>
     </author>
     <id>https://togetoge.cc</id>
 
+    <entry>
+        <title>面具（一）</title>
+        <author>
+            <name>SYM</name>
+        </author>
+        <link href="https://togetoge.cc/biao-ti-wei-ding/"/>
+        <id>https://togetoge.cc/biao-ti-wei-ding/</id>
+            <category term="隨筆文章"/>
+
+        <updated>2026-11-28T22:14:57+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>筆者在中學時代是一個滿口髒話、開口閉口都是黃色笑話的小屁孩，在很多人眼中大概是個問題兒童，也被不少人敬而遠之（我想應該只有遠之，沒有敬的部分）。</p>
+<p>進入高中之後雖然有稍微收斂一些，但念的是男校，又在那個時期入了動漫坑，因此身邊的友人基本上也都是同個圈子裡的宅宅。雖然有幾個相處得相當愉快的朋友，但與班上其他同學的連結，應該算是比較薄弱的那一邊。</p>
+<p>總之絕對不是什麼溫良恭儉讓、在團體中廣受歡迎的角色就是了。這一點筆者倒是一直都蠻有自知之明的。</p>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>更好的人（六）</title>
         <author>
@@ -168,24 +188,6 @@
                 <![CDATA[
                     <p data-pm-slice="1 1 []">（本文內文中的「親戚」原則上是指長輩）</p>
 <p>筆者相信許多人都有一個共同的經驗：逢年過節回老家時，總是會遭受到各種親戚不可名狀的精神轟炸。<br>美其名為「關心」，但更多時候，只會讓人感受到前所未有的疲勞與壓力。</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>更好的人（一）</title>
-        <author>
-            <name>SYM</name>
-        </author>
-        <link href="https://togetoge.cc/geng-hao-de-renyi/"/>
-        <id>https://togetoge.cc/geng-hao-de-renyi/</id>
-            <category term="隨筆文章"/>
-
-        <updated>2026-10-21T19:30:15+09:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>挑戰每周連載。<br>《更好的人》系列文預計每周三更新。本系列旨在探討筆者在追求「成為更好的人」這條路上的一些經歷與體會。</p>
 
                 ]]>
             </summary>
